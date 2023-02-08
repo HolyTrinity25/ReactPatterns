@@ -1,0 +1,17 @@
+.DogList{
+    text-align: center;
+}
+.DogList-logo{
+    padding-bottom: 30px;
+}
+.DogList-logo img{
+    max-width: 250px;
+}
+.DogList-list a{
+    color: black;
+    text-decoration: none;
+}
+.DogList-list a:hover{
+    color: turquoise;
+    text-decoration: underline;
+}
